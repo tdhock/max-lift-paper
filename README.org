@@ -1,0 +1,19 @@
+** 1 Mar 2022
+
+[[file:figure-lift-chart.R]] makes
+
+[[file:figure-lift-chart-ratio-diff-thresholds.png]]
+
+Figure above shows that maximizing lift ratio and difference occur at
+two different thresholds, suggesting that these are different
+objectives.
+
+[[file:figure-lift-chart-roc.png]]
+
+Figure above shows ROC curves for linear model of spam data.
+
+[[file:figure-lift-chart.png]]
+
+Figure above shows lift chart for same linear model on same test set.
+
+
